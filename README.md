@@ -1,1 +1,1 @@
-# IDMDataScienceCourse
+# IDM Data Science Course
